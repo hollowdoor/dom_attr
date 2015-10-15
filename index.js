@@ -1,3 +1,7 @@
+/*
+git remote add origin https://github.com/hollowdoor/dom_attr.git
+git push -u origin master
+*/
 function domAttr(el, obj, value){
     var type, result;
     if(typeof obj === 'string'){
